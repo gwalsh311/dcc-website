@@ -1,0 +1,23 @@
+# List of site pages used to populate the navbar. To add a dropdown
+# under any page insert listings as subpages.
+pages:
+  - page: Home
+    url: /
+  - page: Our Work
+    url: /our-work
+  - page: Who We Are
+    url: /members
+    subpages:
+      - page: Members
+        url: /members
+      - page: Team
+        url: /team
+      - page: Leadership Council
+        url: /leadershipcouncil
+  - page: Resources
+    url: /resources
+  - page: Get Involved
+    url: /get-involved
+    subpages:
+      - page: Membership
+        url: /membership
