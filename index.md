@@ -14,7 +14,7 @@ call-to-action:
 
 # We are building an infrastructure for digital academic credentials that can support the education systems of the future.
 
-Read: [Whitepaper (PDF)](/docs/white-paper-building-digital-credential-infrastructure-future.pdf) &#124; [Credentials to Employment: The Last Mile (PDF)](/docs/Credentials-to-Employment-The-Last-Mile.pdf)
+Read: [Whitepaper (PDF)](/docs/white-paper-building-digital-credential-infrastructure-future.pdf) &#124; [Credentials to Employment: The Last Mile (PDF)](/docs/Credentials-to-Employment-The-Last-Mile.pdf) &#124; [Knowledge Base](https://wiki.dcconsortium.org/) 
 
   </div>
   </header>
